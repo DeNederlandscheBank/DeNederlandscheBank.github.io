@@ -56,11 +56,11 @@ The surge in financial regulatory data over the last decade has led to a situati
 
 Thesis: [Supervised Outlier Detection in Financial Regulatory Data](research/MSc_VandenBoom_v20180706.pdf)
 
-
+<!-- 
 <img src="images/000010.JPG"
      alt="Robert van Ommeren"
      width="150" height="150"
-     style="float: left; margin-right: 5px; padding: 10px" />
+     style="float: left; margin-right: 5px; padding: 10px" /> -->
 
 **Robert van Ommeren (Supervisor - De Nederlandsche Bank)**
 *TBC*
@@ -71,10 +71,10 @@ Thesis: [Supervised Outlier Detection in Financial Regulatory Data](research/MSc
 Thesis: [title](research/Working Paper No. 619 Wang Van Lelyveld Schaumburg 2018.pdf)
 
 
-<img src="images/000010.JPG"
+<!-- <img src="images/000010.JPG"
      alt="Puja Chindrakasing"
      width="150" height="150"
-     style="float: left; margin-right: 5px; padding: 10px" />
+     style="float: left; margin-right: 5px; padding: 10px" /> -->
 
 
 **Puja Chandrikasingh (XXX where?? XX)**
@@ -87,7 +87,7 @@ Thesis: [Trading behaviour of European banking groups: Influence of capital chan
 <img src="images/000010.JPG"
      alt="Dieter Wang"
      width="150" height="150"
-     style="float: left; margin-right: 5px; padding: 10px" />
+     <!-- style="float: left; margin-right: 5px; padding: 10px" /> -->
 
 
 **Dieter Wang (PhD candidate VU/Tinbergen Institute)**
