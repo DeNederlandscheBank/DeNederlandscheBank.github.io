@@ -84,10 +84,10 @@ Thesis: [Trading behaviour of European banking groups: Influence of capital chan
 **Abstract**
 *TBC*
 
-<img src="images/000010.JPG"
+<!-- <img src="images/000010.JPG"
      alt="Dieter Wang"
      width="150" height="150"
-     <!-- style="float: left; margin-right: 5px; padding: 10px" /> -->
+     style="float: left; margin-right: 5px; padding: 10px" /> -->
 
 
 **Dieter Wang (PhD candidate VU/Tinbergen Institute)**
