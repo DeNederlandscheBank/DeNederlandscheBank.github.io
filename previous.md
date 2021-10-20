@@ -1,6 +1,6 @@
 <img src="images/Nirmal_picture.jpg"
      alt="Nirmal Muppiri"
-     width="150" height="150"
+     width="150" 
      style="float: left; margin-right: 5px; padding: 10px" />
      
 **Nirmal Reddy Muppiri (Student - MSc Finance Duisenberg Honors Programme in Finance and Technology)**
@@ -15,6 +15,7 @@ I really enjoyed my time at the DNB, and if you're looking for an organization t
 
 Past crises, such as the 2008 Global Financial Crisis, have shown how adverse the consequences of financial instability can be to the real economy. Existing measures of financial instability within the equity market, equate market characteristics to financial stress and are backward looking. Owing to their role in amplification of exogenous market shocks, we contend that equity market characteristics shape financial stress instead. We consider three market characteristics (volatility, liquidity and market regime) and four fundamental characteristics (leverage, profitability, valuation and coverage), to forecast systemic stress contribution of the equity market segment. We show that using an encoder-decoder model, one can effectively forecast equity market instability up to 9 weeks in advance, during both crisis and non-crisis periods. This finding is supported by stress testing and sensitivity analysis. Our research helps financial supervision limit the adverse socio-economic costs associated with equity market instability.  
 
+Thesis: [Do Stocks Tell The Story? Understanding the Contribution of Equity Market Characteristics to Systemic Risk](research/nirmal_thesis.pdf)
 
 <img src="images/Xu_picture.jpg"
      alt="Xu Lin"
@@ -38,7 +39,7 @@ Market](research/Bilateral_Bargaining_XuLin.pdf)
 
 <img src="images/Emma_picture.JPG"
      alt="Emma de Haan"
-     width="150" height="150"
+     width="150" 
      style="float: left; margin-right: 5px; padding: 10px" />
 
 
