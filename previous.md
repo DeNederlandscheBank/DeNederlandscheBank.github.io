@@ -1,3 +1,21 @@
+<img src="images/Nirmal_picture.jpg"
+     alt="Nirmal Muppiri"
+     width="150" height="150"
+     style="float: left; margin-right: 5px; padding: 10px" />
+     
+**Nirmal Reddy Muppiri (Student - MSc Finance Duisenberg Honors Programme in Finance and Technology)**
+
+The Data Science Hub (DSH) was a fantastic place for me to learn and experience the culture of the DNB. During my internship, I worked extensively on my thesis, where my objective was to investigate how equity market characteristics shape financial stress in the economy. I wanted to use machine learning methods to achieve this goal, so being at the DSH, with colleagues who were very knowledgeable in such methods, provided for a great learning curve. 
+
+Along the thesis, I also got to take part in the weekly team meetings, attend seminars, have one-on-one (zoom) conversations with my colleagues—which helped me to appreciate the variety of impactful work done by the team at the DNB. In addition, since I was interning during the lockdown, I really enjoyed the office space as it provided a new environment to work and think about my approach.
+
+I really enjoyed my time at the DNB, and if you're looking for an organization to grow and develop while being socially responsive, then DNB is the place to be!
+
+**Abstract**
+
+Past crises, such as the 2008 Global Financial Crisis, have shown how adverse the consequences of financial instability can be to the real economy. Existing measures of financial instability within the equity market, equate market characteristics to financial stress and are backward looking. Owing to their role in amplification of exogenous market shocks, we contend that equity market characteristics shape financial stress instead. We consider three market characteristics (volatility, liquidity and market regime) and four fundamental characteristics (leverage, profitability, valuation and coverage), to forecast systemic stress contribution of the equity market segment. We show that using an encoder-decoder model, one can effectively forecast equity market instability up to 9 weeks in advance, during both crisis and non-crisis periods. This finding is supported by stress testing and sensitivity analysis. Our research helps financial supervision limit the adverse socio-economic costs associated with equity market instability.  
+
+
 <img src="images/Xu_picture.jpg"
      alt="Xu Lin"
      width="150" height="150"
